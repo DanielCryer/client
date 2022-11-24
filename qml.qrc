@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MainContent.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>ProfileButton.qml</file>
+        <file>icons/icon-add.svg</file>
+        <file>icons/icon-back.svg</file>
+        <file>icons/icon-rub-usd.svg</file>
+        <file>icons/icon-usd.svg</file>
+        <file>icons/icon-rub.svg</file>
+        <file>UserRequestsContent.qml</file>
+        <file>RequestDealsContent.qml</file>
+    </qresource>
+</RCC>
