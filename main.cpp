@@ -3,7 +3,8 @@
 #include <QQmlContext>
 #include <QQuickStyle>
 #include <QQuickView>
-#include "lib/clientcontroller.h"
+#include "libs/clientcontroller.h"
+
 
 
 int main(int argc, char *argv[])
